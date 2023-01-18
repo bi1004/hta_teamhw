@@ -1,2 +1,2 @@
-# hta_teamhw
-#✨ JPA QUIZ ✨
+# ✨ JPA QUIZ ✨
+
